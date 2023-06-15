@@ -1,0 +1,9 @@
+body {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    background: linear-gradient(rgba(255,255,255,.6), rgba(255,255,255,.6)), url(contactbkgd.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
